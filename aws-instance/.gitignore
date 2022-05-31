@@ -1,0 +1,3 @@
+aws-instance/.terraform.lock.hcl
+aws-instance/terraform.tfstate
+aws-instance/.terraform/
