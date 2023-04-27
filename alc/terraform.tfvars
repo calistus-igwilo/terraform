@@ -1,5 +1,0 @@
-region      = "eu-west-2"
-access_key  = "AKIAQ46RKVIQ3CKTXU5J"
-secret_key  = "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"
-db_user     = "root"
-db_password = "fdc7d490fddc926794db"
