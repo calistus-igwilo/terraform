@@ -11,7 +11,7 @@ variable "region" {
 }
 
 variable "db_user" {
-    description = "MySQL username"
+  description = "MySQL username"
 }
 
 variable "db_password" {
